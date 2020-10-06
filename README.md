@@ -1,2 +1,2 @@
-# codeforces_round672
+# codeforces
 all languages are accepted
